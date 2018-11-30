@@ -1,0 +1,48 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+            "id": 1,
+            "title": "社会热点",
+            "imgUrl": "http://seopic.699pic.com/photo/50035/0520.jpg_wh1200.jpg"
+        }, {
+            "id": 2,
+            "title": "手绘",
+            "imgUrl": "http://seopic.699pic.com/photo/50035/0520.jpg_wh1200.jpg"
+        }],
+        "articleList": [{
+            "id": 1,
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/2321684-c4b53ec28767f7bd?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+            "desc": "《我就是演员》第二期。 即兴表演：吴秀波、徐娇《失窃之后》。 这一段的内容相当狗血，吴秀波饰演的那个父亲，老婆老早就死了，儿子得了先天心脏病...",
+            "title": "《我就是演员》：能不能别再这么频繁地贩卖廉价眼泪了……"
+        },{
+            "id": 2,
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/11026357-cddbf6d9ef727b4f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+            "desc": "《我就是演员》第二期。 即兴表演：吴秀波、徐娇《失窃之后》。 这一段的内容相当狗血，吴秀波饰演的那个父亲，老婆老早就死了，儿子得了先天心脏病...",
+            "title": "《我就是演员》：能不能别再这么频繁地贩卖廉价眼泪了……"
+        },{
+            "id": 3,
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/2321684-c4b53ec28767f7bd?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+            "desc": "《我就是演员》第二期。 即兴表演：吴秀波、徐娇《失窃之后》。 这一段的内容相当狗血，吴秀波饰演的那个父亲，老婆老早就死了，儿子得了先天心脏病...",
+            "title": "《我就是演员》：能不能别再这么频繁地贩卖廉价眼泪了……"
+        },{
+            "id": 4,
+            "imgUrl": "https://img1.utuku.china.com/600x0/news/20170417/2f4ce386-60f2-4d09-95bd-0d4ad1a48bc9.jpg",
+            "desc": "《我就是演员》第二期。 即兴表演：吴秀波、徐娇《失窃之后》。 这一段的内容相当狗血，吴秀波饰演的那个父亲，老婆老早就死了，儿子得了先天心脏病...",
+            "title": "《我就是演员》：能不能别再这么频繁地贩卖廉价眼泪了……"
+        }],
+        "recommendList": [{
+            "id": 2,
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL5vBVp-ru-zJCowh-fWNH_tna-TfauoioTJ3TOATd7OuLl2mWOA"
+        },{
+            "id": 3,
+            "imgUrl": "http://imgtu.lishiquwen.com/20170620/a62b06cac7f43e9d344d9c522b6b298f.jpg"
+        }, {
+            "id": 4, 
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2E2F2ZweGUm2RVsKPkWkkxlDjPHhkde-x_I9KOGKt-Em10ofNQ"
+        }, {
+            "id": 5,
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTcYTKo27PNptSeqGqc0Ko9NFkVQ7Rp9bVU3pjO3RugyDk8h5C"
+        }]
+    }
+ }
